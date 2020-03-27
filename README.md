@@ -10,3 +10,7 @@ The sentences that one can convert are:
  'I ate',
  'I’m fine',
  'Welcome'
+ 
+ What you can do?
+ 1.Add more english sentences with their chinese translations.
+ 2.Add english and chinese lists to a json file and import whenever necessary.
